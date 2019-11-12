@@ -93,6 +93,8 @@ venv/
 ENV/ 
 env.bak/ 
 venv.bak/ 
+schoolenv/
+schoolpy3/
 
 # mkdocs documentation 
 /site 
